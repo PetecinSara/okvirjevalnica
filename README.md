@@ -13,5 +13,5 @@ Ima pregled nad seznamom okvirjev, paspartujev in ostalih materialov. Prav tako 
 
 * [JavaScript](https://www.javascript.com/)
 * [PHP](https://www.php.net/)
-* [AJAX]
 * [JQuery](https://jquery.com/)
+* AJAX
